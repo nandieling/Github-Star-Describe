@@ -1,12 +1,11 @@
 # Github-Star-Describe
-# 🌟 StarNotes (GitHub Star 仓库管理器)
 
 ![Platform](https://img.shields.io/badge/Platform-macOS%2014.0+-lightgrey.svg)
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange.svg)
 ![Framework](https://img.shields.io/badge/UI-SwiftUI-blue.svg)
 ![Data](https://img.shields.io/badge/Data-SwiftData-red.svg)
 
-**StarNotes** 是一款专为 macOS 打造的原生桌面应用程序。它不仅能一键同步你的 GitHub 标星 (Starred) 仓库，还能让你为每个仓库添加**专属的中文功能描述与备忘笔记**。从此告别“标星如吃灰，用时找不到”的烦恼！
+**Github-Star-Describe** 是一款专为 macOS 打造的原生桌面应用程序。它不仅能一键同步你的 GitHub 标星 (Starred) 仓库，还能让你为每个仓库添加**专属的中文功能描述与备忘笔记**。从此告别“标星如吃灰，用时找不到”的烦恼！
 
 > 截图占位：请将你的精美截图（包含自定义背景和毛玻璃效果）命名为 `screenshot.png` 放入项目中，并替换此文字。
 > `![主界面截图](screenshot.png)`

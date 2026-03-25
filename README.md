@@ -37,7 +37,7 @@
 ## 🚀 安装与运行
 
 ### 方式一：直接运行成品包 (推荐)
-1. 在 [Releases 页面](#) 下载最新的 `StarNotes.dmg` 或 `StarNotes.app.zip`。
-2. 解压并将 `StarNotes.app` 拖入你的「应用程序 (Applications)」文件夹。
+1. 在 [Releases 页面](#) 下载最新的 `Github-Star-Describe.dmg` 。
+2. 解压并将 `Github-Star-Describe` 拖入你的「应用程序 (Applications)」文件夹。
 3. **首次运行注意**：由于是独立开发者未签名版本，首次打开请对着软件图标**右键 -> 选择“打开”**。
 

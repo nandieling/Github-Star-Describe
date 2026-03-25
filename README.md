@@ -41,7 +41,3 @@
 2. 解压并将 `StarNotes.app` 拖入你的「应用程序 (Applications)」文件夹。
 3. **首次运行注意**：由于是独立开发者未签名版本，首次打开请对着软件图标**右键 -> 选择“打开”**。
 
-### 方式二：通过 Xcode 源码编译
-1. 克隆此仓库：
-   ```bash
-   git clone [https://github.com/YourUsername/StarNotes.git](https://github.com/YourUsername/StarNotes.git)

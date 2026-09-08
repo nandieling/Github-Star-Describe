@@ -88,7 +88,7 @@ xcodebuild -project "Github Star Describe.xcodeproj" -scheme "Github Star Descri
 [
   { "id": 123456789, "customDescription": "这里是自定义描述" }
 ]
-```
+``````
 
 ## 描述来源与覆盖规则
 

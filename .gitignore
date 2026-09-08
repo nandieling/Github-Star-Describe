@@ -1,0 +1,24 @@
+# macOS 系统文件
+.DS_Store
+
+# Xcode 用户级状态（与具体用户/机器绑定，不上传）
+xcuserdata/
+*.xcuserstate
+*.xcuserdatad/
+
+# Xcode 构建产物
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.hmap
+*.xcactivitylog
+
+# 其他 IDE / 编辑器
+.idea/
+*.swp
+
+# SwiftPM 构建缓存
+.swiftpm/
+.build/
